@@ -224,11 +224,7 @@ nav ul li a:hover::after {
     margin-top: 15px;
 }
 
-.upwork{
-    width: 40px;
-}
-
-.social-icons a{
+.social-icons a {
     text-decoration: none;
     font-size: 30px;
     margin-right: 15px;
